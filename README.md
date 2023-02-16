@@ -1,1 +1,1 @@
-# DrewAce-GPT-3-AI-Design
+# GPT-3-AI-Design
